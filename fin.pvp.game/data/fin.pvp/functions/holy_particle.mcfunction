@@ -1,0 +1,31 @@
+particle end_rod ^ ^ ^2.5 0 0 0 0 1
+particle end_rod ^1 ^ ^2.5 0 0 0 0 1
+particle end_rod ^2 ^ ^2.5 0 0 0 0 1
+particle end_rod ^3 ^ ^2.5 0 0 0 0 1
+particle end_rod ^4 ^ ^2.5 0 0 0 0 1
+particle end_rod ^5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^6 ^ ^2.5 0 0 0 0 1
+particle end_rod ^7 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-1 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-2 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-3 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-4 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-6 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-7 ^ ^2.5 0 0 0 0 1
+particle end_rod ^0.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^1.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^2.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^3.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^4.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^5.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^6.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-0.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-1.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-2.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-3.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-4.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-5.5 ^ ^2.5 0 0 0 0 1
+particle end_rod ^-6.5 ^ ^2.5 0 0 0 0 1
+
+
