@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "thunder": {
+        "trigger": "minecraft:entity_hurt_player",
+        "conditions": {
+          "player": [],
+          "damage": {
+            "type": {
+              "direct_entity": {
+                "type": "minecraft:trident",
+                "nbt": "{Trident:{tag:{Fpvp:Thunder}}}"
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "fin.pvp:items/trident"
+    }
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "criteria": {
+      "crossbow": {
+        "trigger": "minecraft:shot_crossbow",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "team": "Hunter"
+              }
+            }
+          ],
+          "item": {
+            "item": "minecraft:crossbow",
+            "nbt": "{Fpvp:Hunterbow}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "fin.pvp:pve/crossbow"
+    }
+  }
+  

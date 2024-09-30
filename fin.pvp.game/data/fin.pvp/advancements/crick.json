@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "slime": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:slime"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "fin.pvp:crick"
+    }
+  }
+  

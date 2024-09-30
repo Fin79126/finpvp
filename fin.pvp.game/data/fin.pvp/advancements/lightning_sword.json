@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "warrior_sword": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "nbt": "{SelectedItem:{id:\"minecraft:wooden_sword\",tag:{Fpvp:Lightning_Sword}}}"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "fin.pvp:items/lightning_sword"
+    }
+  }
+  
