@@ -1,0 +1,10 @@
+execute at @e[tag=Spawn,limit=2,sort=random] run summon elder_guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon evoker ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon evoker ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon ravager ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon ravager ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon wither_skeleton ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon vindicator ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon vindicator ~ ~2 ~ {Tags:["Enemy"]} 

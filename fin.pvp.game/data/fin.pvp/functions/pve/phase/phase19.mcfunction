@@ -1,0 +1,10 @@
+execute at @e[tag=Spawn,limit=2,sort=random] run summon guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon elder_guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon zoglin ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon zoglin ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon wither_skeleton ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon vindicator ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon vindicator ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon witch ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon slime ~ ~2 ~ {Tags:["Enemy"]}

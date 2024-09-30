@@ -1,0 +1,10 @@
+execute at @e[tag=Spawn,limit=2,sort=random] run summon zombified_piglin ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon zombified_piglin ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon phantom ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=1,sort=random] run summon guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=1,sort=random] run summon guardian ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=1,sort=random] run summon creeper ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=1,sort=random] run summon zombie ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=1,sort=random] run summon zombie ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=1,sort=random] run summon zombie ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon slime ~ ~2 ~ {Tags:["Enemy"]}

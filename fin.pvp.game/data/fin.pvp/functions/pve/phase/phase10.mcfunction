@@ -1,0 +1,10 @@
+execute at @e[tag=Spawn,limit=3,sort=random] run summon wither_skeleton ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=3,sort=random] run summon wither_skeleton ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=3,sort=random] run summon zombified_piglin ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon spider ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon spider ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon slime ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon creeper ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon stray ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon skeleton ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=3,sort=random] run summon stray ~ ~2 ~ {Tags:["Enemy"]}

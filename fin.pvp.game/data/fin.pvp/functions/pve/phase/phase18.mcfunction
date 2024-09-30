@@ -1,0 +1,10 @@
+execute at @e[tag=Spawn,limit=2,sort=random] run summon ravager ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon ravager ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon pillager ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon pillager ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon pillager ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon vindicator ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon vindicator ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon vindicator ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon evoker ~ ~2 ~ {Tags:["Enemy"]}
+execute at @e[tag=Spawn,limit=2,sort=random] run summon evoker ~ ~2 ~ {Tags:["Enemy"]}
